@@ -1,1 +1,1 @@
-# Absurdle
+# MiniGit
